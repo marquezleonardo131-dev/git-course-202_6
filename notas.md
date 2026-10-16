@@ -1,5 +1,15 @@
 # Notes
 
+# Git clone
+
+# HOLA gera y leo
+ 
+```bash
+git clone <url del repositorio>
+```
+
+Crear una carpeta con el nombre del repo y clonar el repositorio ahí
+
 ## Git status
 
 ## Git add
@@ -54,4 +64,4 @@ de nuestro repositorio
 
 Git checkout sirve para intercambiar ramas o commits
 
-- `git switch <rama>`: chambiar a una rama
+- `git switch <rama>`: chambiar a una ramagit 
